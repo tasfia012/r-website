@@ -1,0 +1,140 @@
+
+.top-header img{
+    width:300px;
+}
+.top-header-back
+{
+    background-color: #FFFBF0!important;
+}
+
+.top-section {
+    background-color: #FFFBF0;
+    
+    height:560px;
+}
+.women h3{
+    padding-top: 60px;
+    /* padding-bottom: 20px; */
+}
+.women-2{
+    padding-top: 100px;
+}
+.list-item ul li{
+    color:rgb(156, 149, 149);
+    font-weight: 700;
+    font-size: 15px;
+    padding:0px 20px;
+   
+}
+.top-bar{
+    display: flex;
+}
+.bar-width{
+    width:40%;
+    margin-left: 5%;
+}
+.bar-width img{
+    width:100%;
+}
+h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+.orange-text{
+    color:#FABE4C;
+    padding-top: 75px;
+}
+.blue-text{
+    color:#363958;
+}
+.button-color{
+    background:linear-gradient(360deg,#98af39,#adcc31) ;
+    color:white;
+   font-weight: 700;
+    font-size: 12px;
+    padding:12px 24px;
+    border-radius: 6px;
+    border:none;
+}
+.button-color:hover{
+    background: linear-gradient(360deg,#FABE4C,#e6ba6a);
+    
+}
+.button-color i{
+    padding-right:10px;
+}
+.w-jacket img{
+    width:200px;
+}
+img.card-img-top.two-jacket {
+    width: 150px;
+}
+img.card-img-top.third-jacket.d-flex.align-items-center {
+    width: 150px;
+}
+.women{
+    padding:30px 0px;
+    font-weight: 700;
+    font-size: 30px;
+}
+.image-fix{
+    width:290px;
+    height:230px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+.border-footer{
+     border: none;
+     background-color: white;
+}
+.price{
+    color:#FABE4C;
+    padding-right: 80px;
+    padding-left: 0;
+    font-weight: 700;
+}
+p{
+    font-weight: 600;
+    font-size: 14px;
+    color: #858585;
+}
+.five-tag{
+    font-weight: 700;
+}
+.half-footer-img{
+    padding-top: 100px;
+    width:55%;
+    height: 500px;
+    padding-left:150px;
+}
+.half-footer-info{
+    width:40%;
+    height:500px;
+}
+.half-footer-img img{
+    width:100%;
+}
+.l-side-img{
+    width: 20%;
+}
+.l-side-img img{
+    width:100%;
+}
+.l-side-info{
+    width:60%;
+    
+}
+.footer-l-side{
+    height:100px;
+  margin:0;
+  padding:0;
+}
+
+
+
+
+
+
+
